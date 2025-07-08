@@ -1,0 +1,8 @@
+Introdução ao Git e GitHub
+Criação de Conta no GitHub
+Instalação do Git
+Configuração Inicial do Git
+Criação de um Repositório no GitHub
+Clonando o Repositório para seu Computador
+Substitua "URL_DO_REPOSITORIO" pela URL que você copiou.
+Realizando uma Alteração e Enviando para o GitHub
